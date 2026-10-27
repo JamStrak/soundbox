@@ -35,7 +35,7 @@ README = '''声匣 Windows 独立便携版
 程序没有数字签名；Windows 可能提示未知发布者，请核对下载来源后自行决定是否运行。
 源码：https://github.com/JamStrak/soundbox
 许可证及第三方组件说明：LICENSE、第三方组件说明.md、runtime 文件夹。
-本测试包的 FFmpeg 是 GPL 构建，面向公开分发前需核查其完整对应源码及发行义务。
+FFmpeg 与其他第三方组件的版本、许可证和源码说明见 runtime 文件夹及第三方组件说明。
 '''
 
 

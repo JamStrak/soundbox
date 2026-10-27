@@ -16,4 +16,4 @@ Python 运行依赖及固定版本见 [`requirements.txt`](requirements.txt)，�
 
 音频处理需要用户自行安装 [FFmpeg](https://ffmpeg.org/)。FFmpeg 的实际许可取决于具体构建和启用的组件；如需再分发 FFmpeg，请检查所选构建的许可并遵守其要求。本仓库源码不包含 FFmpeg 可执行文件。
 
-用于本机验证的便携运行时包含 GPL-3.0-or-later FFmpeg 构建，现有清单尚不能证明所有相关第三方组件的完整对应源码和构建材料均已备齐。对外分发该构建前必须完成对应源码和许可义务核查；不能仅凭上游 FFmpeg 链接认定已完成。本仓库当前不提供该便携运行时或其可执行文件。
+Windows 便携包使用单独构建的 FFmpeg 8.0.1（LGPL 2.1 或更新版本）及 LAME 3.100（LGPL 2 或更新版本）共享库；两者不按本项目 MIT 许可分发。许可文本、具体构建配置和来源信息随运行时提供；对应源码归档及构建脚本可在 [v0.1.0 发布页](https://github.com/JamStrak/soundbox/releases/tag/v0.1.0) 下载。构建未启用 FFmpeg 的 GPL 或 nonfree 选项。Python 嵌入运行时及其第三方包的版本和许可说明见便携包 `runtime/versions.json` 和相应许可证文件。
