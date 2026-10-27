@@ -1,0 +1,155 @@
+/* Keep searching and collecting in the foreground; package maintenance lives in its own window. */
+.app-shell .library-heading{margin-bottom:20px;align-items:center}
+.app-shell .library-heading .eyebrow,.app-shell .heading-stamp{display:none}
+.app-shell .library-heading h1{font-size:28px;margin-bottom:8px;letter-spacing:.3px}
+.app-shell .library-heading p{font-size:12px;line-height:1.8;color:#a5ad9d}
+.search-sources{margin-bottom:12px}
+.source-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:9px;color:#b6bfae;font-size:12px}
+.source-heading>.text-button{font-size:12px;color:#bacba5}
+.source-heading small{font-size:10px;color:#a7ba90}
+.source-choices{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:7px}
+.source-choice{min-width:0;display:flex;flex-direction:column;gap:5px;align-items:flex-start;padding:11px 13px;border:1px solid #363d30;border-radius:7px;background:#1b2017;text-align:left}
+.source-choice:hover{border-color:#7e975b;background:#242e1c}
+.source-choice.active{border-color:#a8cd70;background:#2c3c20;box-shadow:inset 0 -2px #c0ed79}
+.source-choice strong{font-size:13px;font-weight:500;color:#cdd5c6;white-space:nowrap}
+.source-choice.active strong{color:#d8f2b2}
+.source-choice small{font-size:10px;color:#919e83;white-space:nowrap}
+.source-description{display:flex;align-items:center;gap:12px;min-height:30px;padding:7px 0 0}
+.source-description>p{font-size:11px;line-height:1.7;color:#95a088}
+.source-description>.text-button{flex-shrink:0;font-size:11px}
+.app-shell .search-box{height:56px;border-color:#52653e;background:#1c2417}
+.app-shell .search-box input{font-size:14px}
+.app-shell .search-ai-control{margin:7px 0 16px;padding:9px 0;background:none;border:0;gap:14px}
+.app-shell .search-ai-toggle{font-size:12px;color:#b9c9a7}
+.app-shell .search-ai-description>span{font-size:11px;color:#9fac94}
+.app-shell .search-ai-description>small{display:none}
+.app-shell .search-ai-control>.text-button{font-size:11px}
+.app-shell .filter-bar{margin-top:0;margin-bottom:10px}
+.app-shell .category-chips button{font-size:12px;padding:6px 12px}
+.app-shell .select-control{height:32px}
+.app-shell .select-control select{font-size:11px;max-width:145px}
+.app-shell .quality-tools{padding:0;margin-bottom:12px;background:transparent;border:0}
+.quality-disclosure{border-bottom:1px solid #303929}
+.quality-disclosure>summary{display:flex;align-items:center;gap:9px;padding:10px 0;cursor:pointer;list-style:none;font-size:11px;color:#a8b69c}
+.quality-disclosure>summary::-webkit-details-marker{display:none}
+.quality-disclosure>summary:before{content:'›';font-size:18px;color:#91a977;line-height:1}
+.quality-disclosure[open]>summary:before{transform:rotate(90deg)}
+.quality-summary-status{margin-left:auto;font-size:10px;color:#c0d798}
+.quality-disclosure .quality-tool-controls{padding:6px 0 10px}
+.quality-disclosure .quality-budget-note{margin:0;padding-bottom:12px;color:#929f85;font-size:10px}
+.app-shell .results-heading{font-size:12px;margin-top:16px;margin-bottom:12px}
+.app-shell .results-heading select{font-size:11px}
+.app-shell .results-layout.has-inspector{grid-template-columns:minmax(0,1fr) 245px;gap:20px}
+.app-shell .list-column-head,.app-shell .sound-row{grid-template-columns:17px 33px minmax(135px,1fr) 95px 42px 56px 174px;column-gap:10px;padding-left:8px;padding-right:8px}
+.app-shell .sound-row{min-height:98px}
+.app-shell .sound-name>button{font-size:12px}
+.app-shell .sound-subtitle{font-size:9px}
+.app-shell .sound-tags>span{font-size:8px}
+.app-shell .row-actions{gap:2px;justify-content:flex-end}
+.app-shell .row-actions .icon-button{width:26px;height:30px}
+.app-shell .row-actions .row-more{display:flex}
+.row-folder-button{display:inline-flex;align-items:center;gap:5px;border:1px solid #52613e;border-radius:5px;padding:6px 7px;color:#bfd5a6;background:#26311e;white-space:nowrap;font-size:10px;min-height:30px}
+.row-folder-button:hover{background:#38482a;border-color:#a5c775;color:#e0edcf}
+.app-shell .sound-inspector{padding:15px;align-self:start}
+.app-shell .sound-inspector h3{font-size:14px;line-height:1.7}
+.app-shell .sound-art{height:85px;margin-bottom:12px}
+.app-shell .sound-art>svg{width:36px}
+.inspector-primary-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:14px 0}
+.inspector-primary-actions>.full{grid-column:1/-1}
+.inspector-primary-actions>.button{font-size:11px;min-height:35px;padding:8px}
+.app-shell .selection-toolbar{position:sticky;top:8px;z-index:5;border-color:#779b4e;background:#25341b;box-shadow:0 5px 16px #0005}
+.selection-folder{background:#c0ed79!important;color:#263615!important;border-radius:5px;padding:7px 10px}
+.assignment-summary{display:flex;gap:12px;align-items:flex-start;border-bottom:1px solid #405633;padding-bottom:18px;margin-bottom:20px}
+.assignment-summary>svg{color:#c0dd9c;margin-top:3px}
+.assignment-summary b{display:block;color:#dce8cf;font-size:13px;line-height:1.7;overflow-wrap:anywhere}
+.assignment-summary p{color:#a1b58f;font-size:11px;line-height:1.8;margin-top:5px}
+.assignment-new{font-size:12px;color:#c8dfa8}
+.assignment-create{background:#26371d;border:1px solid #455f31;border-radius:6px;padding:15px;margin-bottom:12px}
+.assignment-error{font-size:12px;color:#f0b4a4;background:#4a302680;border:1px solid #825242;border-radius:5px;padding:10px;margin-top:14px;line-height:1.8}
+.folder-assignment .field-label{font-size:12px}
+.folder-assignment .field-label select,.folder-assignment .field-label input{font-size:13px}
+.folder-assignment .form-actions>.button{font-size:12px}
+.pack-manager-scroll{padding:20px 24px;overflow-y:auto;min-height:0}
+.pack-manager-scroll .catalog-grid{max-height:none;overflow:visible;grid-template-columns:repeat(2,minmax(0,1fr))}
+.pack-manager-scroll .catalog-panel,.pack-manager-scroll .game-packs-panel{margin-bottom:18px}
+.pack-manager-scroll .catalog-panel>header>.button{margin-left:0}
+.pack-manager-scroll .local-pack-section>.text-button{font-size:12px}
+.pack-manager-scroll .local-pack-form>p{font-size:11px;color:#9daf8e}
+.pack-manager-scroll .catalog-card>p{font-size:11px;color:#9caf8b}
+.pack-manager-scroll .catalog-card h3{font-size:13px}
+.pack-manager-scroll .catalog-panel>header p{font-size:11px}
+.pack-manager-scroll .catalog-panel>header h2{font-size:16px}
+.pack-manager-scroll .local-pack-list>summary{cursor:pointer;font-size:11px;color:#b1c79c}
+.local-pack-indexed{margin-top:13px;font-size:11px;color:#b1c79c}
+.local-pack-indexed>summary{cursor:pointer}
+.catalog-scope{display:flex;align-items:center;gap:10px;font-size:11px;color:#bccdab;margin-bottom:10px}
+.catalog-scope>.text-button{font-size:11px}
+@media(max-width:1390px){
+  .app-shell .list-column-head,.app-shell .sound-row{grid-template-columns:15px 30px minmax(130px,1fr) 58px 36px 48px 159px;column-gap:7px}
+  .app-shell .row-actions .icon-button{width:23px}
+  .row-folder-button{font-size:10px;padding:5px;gap:3px}
+  .app-shell .results-layout.has-inspector{grid-template-columns:minmax(0,1fr) 220px;gap:14px}
+}
+@media(max-width:1170px){
+  .app-shell .results-layout.has-inspector{grid-template-columns:minmax(0,1fr)}
+  .source-choice{padding:10px}
+  .source-choice strong{font-size:12px}
+  .source-choice small{font-size:9px}
+}
+@media(max-width:760px){
+  .app-shell .library-heading h1{font-size:25px}
+  .app-shell .library-heading p{font-size:11px}
+  .app-shell .search-box input{font-size:12px}
+  .source-heading>.text-button{font-size:11px}
+  .source-choice strong{font-size:11px}
+  .source-choice small{font-size:8px}
+  .source-choice{padding:10px 7px}
+  .app-shell .select-control select{font-size:10px}
+  .app-shell .list-column-head,.app-shell .sound-row{grid-template-columns:14px 29px minmax(105px,1fr) 54px 32px 46px 154px;column-gap:6px}
+  .app-shell .sound-name>button{font-size:11px}
+  .app-shell .sound-subtitle{font-size:8px}
+  .pack-manager-scroll{padding:14px}
+}
+@media(max-width:980px){
+  .app-shell .list-column-head,.app-shell .sound-row{grid-template-columns:14px 30px minmax(0,1fr) 42px;column-gap:9px}
+  .app-shell .sound-row{row-gap:8px;min-height:0;padding-top:12px;padding-bottom:12px}
+  .app-shell .sound-row>.check-cell,.app-shell .sound-row>.row-play{grid-row:1}
+  .app-shell .sound-name{grid-column:3;grid-row:1}
+  .app-shell .sound-duration{grid-column:4;grid-row:1}
+  .app-shell .sound-row>.row-actions{grid-column:3/-1;grid-row:2;justify-content:flex-start;gap:7px}
+  .app-shell .head-wave,.app-shell .head-license,.app-shell .head-actions,.app-shell .row-wave,.app-shell .sound-row>.sound-license{display:none}
+  .app-shell .head-duration{grid-column:4}
+  .source-choice small{white-space:normal;line-height:1.5}
+}
+@media(max-width:580px){
+  .source-choices{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+  .source-choice{padding:9px 8px}
+  .source-choice strong{font-size:12px}
+  .source-choice small{font-size:9px}
+  .source-description{align-items:flex-start;flex-wrap:wrap;gap:5px}
+  .source-description>p{font-size:10px}
+  .app-shell .search-ai-control{gap:8px;margin-bottom:12px}
+  .app-shell .search-ai-toggle{font-size:11px}
+  .app-shell .search-ai-description>span{font-size:10px}
+  .app-shell .category-chips button{font-size:11px;padding:5px 8px}
+  .app-shell .filter-bar{gap:10px}
+  .app-shell .select-control select{max-width:none;font-size:10px}
+  .app-shell .results-heading{font-size:11px;margin-top:12px}
+  .app-shell .results-heading select{font-size:10px}
+  .app-shell .list-column-head,.app-shell .sound-row{grid-template-columns:14px 28px minmax(0,1fr) 38px;column-gap:8px}
+  .app-shell .sound-row{row-gap:8px;min-height:0;padding:12px 5px}
+  .app-shell .sound-row>.check-cell,.app-shell .sound-row>.row-play{grid-row:1}
+  .app-shell .sound-name{grid-column:3;grid-row:1}
+  .app-shell .sound-duration{grid-column:4;grid-row:1}
+  .app-shell .sound-row>.row-actions{grid-column:3/-1;grid-row:2;justify-content:flex-start;gap:7px}
+  .app-shell .sound-name>button{font-size:12px}
+  .app-shell .head-actions{display:none}
+  .app-shell .head-duration{grid-column:4}
+  .app-shell .row-actions .icon-button{width:27px;height:30px}
+  .row-folder-button{font-size:11px;padding:6px 8px;gap:5px}
+  .pack-manager-scroll .catalog-grid{grid-template-columns:1fr}
+  .pack-manager-scroll .catalog-panel>header>.button{font-size:11px}
+  .app-shell .selection-toolbar{top:5px;gap:10px;font-size:11px}
+  .app-shell .selection-toolbar button{font-size:11px}
+  .quality-summary-status{font-size:9px}
+}

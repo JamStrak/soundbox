@@ -1,0 +1,16 @@
+.shortcut-help{position:relative;flex-shrink:0;color:#adc891;font-size:11px}
+.shortcut-help>summary{list-style:none;display:flex;align-items:center;gap:6px;cursor:pointer;border:1px solid #4e6839;border-radius:5px;padding:7px 9px;white-space:nowrap}
+.shortcut-help>summary::-webkit-details-marker{display:none}
+.shortcut-help>summary:hover,.shortcut-help>summary:focus-visible{color:#ddefc5;background:#304225;outline:1px solid #a8c87d}
+.shortcut-help .shortcut-card{position:absolute;right:0;bottom:calc(100% + 12px);z-index:140;width:310px;max-width:calc(100vw - 40px);padding:18px;background:#202f18;border:1px solid #69834f;border-radius:8px;box-shadow:0 8px 32px #0008;color:#c1d7ac;font-size:12px;line-height:1.8}
+.shortcut-card>b{font-size:14px;color:#e0eecf}
+.shortcut-card dl{margin:12px 0}
+.shortcut-card dl>div{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:6px 0}
+.shortcut-card dd{margin:0;font-size:11px}
+.shortcut-card kbd{font-family:inherit;font-size:11px;padding:3px 5px;border:1px solid #4d633c;border-radius:4px;background:#182510;white-space:nowrap}
+.shortcut-help .shortcut-card p{white-space:normal;font-size:11px;color:#a4b792;line-height:1.9}
+.editor-shortcut-strip{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 0 18px;color:#a8bf90;font-size:11px;line-height:1.8}
+.editor-shortcut-strip .shortcut-card{bottom:auto;top:calc(100% + 8px);z-index:4}
+.editor-shortcut-strip kbd{font:inherit;color:#d5edb8;background:#293e1b;border:1px solid #506c37;border-radius:4px;padding:2px 5px}
+.player-shortcuts{margin-left:6px}
+@media(max-width:760px){.player-shortcuts>details>summary span{display:none}.player-shortcuts>details>summary{padding:6px}.editor-shortcut-strip{align-items:flex-start;gap:8px}.editor-shortcut-strip .shortcut-card{right:0;width:290px}.audio-editor-footer .shortcut-help{font-size:10px}}

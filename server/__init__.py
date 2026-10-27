@@ -1,0 +1,1 @@
+"""Soundbox local application."""

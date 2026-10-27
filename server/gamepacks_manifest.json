@@ -1,0 +1,1918 @@
+{
+  "version": 1,
+  "verified_at": "2026-09-22",
+  "packs": [
+    {
+      "id": "interface",
+      "name": "界面交互 · Interface",
+      "original_name": "Interface Sounds",
+      "description": "点击、确认、返回、开关等独立界面音效。",
+      "count": 100,
+      "bytes": 834536,
+      "sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+      "license_sha256": "f7966c773bbed0eca6a9c75081c44a178b38eae112724dbb5fdfbd4192d118a9",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Kenney",
+      "source_url": "https://kenney.nl/assets/interface-sounds",
+      "download_url": "https://kenney.nl/media/pages/assets/interface-sounds/fa43c1dd4d-1677589452/kenney_interface-sounds.zip",
+      "groups": {
+        "back": {
+          "name": "返回提示",
+          "tags": [
+            "ui",
+            "interface",
+            "cancel",
+            "back",
+            "界面",
+            "返回"
+          ]
+        },
+        "bong": {
+          "name": "低沉提示音",
+          "tags": [
+            "ui",
+            "bong",
+            "notification",
+            "界面",
+            "提示"
+          ]
+        },
+        "click": {
+          "name": "按钮点击",
+          "tags": [
+            "ui",
+            "button",
+            "click",
+            "界面",
+            "按钮",
+            "点击"
+          ]
+        },
+        "close": {
+          "name": "界面关闭",
+          "tags": [
+            "ui",
+            "close",
+            "界面",
+            "关闭"
+          ]
+        },
+        "confirmation": {
+          "name": "确认提示",
+          "tags": [
+            "ui",
+            "confirmation",
+            "confirm",
+            "界面",
+            "确认"
+          ]
+        },
+        "drop": {
+          "name": "界面落下",
+          "tags": [
+            "ui",
+            "drop",
+            "界面",
+            "落下"
+          ]
+        },
+        "error": {
+          "name": "错误提示",
+          "tags": [
+            "ui",
+            "error",
+            "界面",
+            "错误"
+          ]
+        },
+        "glass": {
+          "name": "玻璃提示音",
+          "tags": [
+            "ui",
+            "glass",
+            "notification",
+            "界面",
+            "玻璃",
+            "提示"
+          ]
+        },
+        "glitch": {
+          "name": "故障提示音",
+          "tags": [
+            "ui",
+            "glitch",
+            "界面",
+            "故障"
+          ]
+        },
+        "maximize": {
+          "name": "窗口放大",
+          "tags": [
+            "ui",
+            "maximize",
+            "界面",
+            "窗口放大"
+          ]
+        },
+        "minimize": {
+          "name": "窗口缩小",
+          "tags": [
+            "ui",
+            "minimize",
+            "界面",
+            "窗口缩小"
+          ]
+        },
+        "open": {
+          "name": "界面打开",
+          "tags": [
+            "ui",
+            "open",
+            "界面",
+            "打开"
+          ]
+        },
+        "pluck": {
+          "name": "拨弦提示音",
+          "tags": [
+            "ui",
+            "pluck",
+            "notification",
+            "界面",
+            "拨弦",
+            "提示"
+          ]
+        },
+        "question": {
+          "name": "疑问提示",
+          "tags": [
+            "ui",
+            "question",
+            "notification",
+            "界面",
+            "疑问",
+            "提示"
+          ]
+        },
+        "scratch": {
+          "name": "刮擦提示音",
+          "tags": [
+            "ui",
+            "scratch",
+            "界面",
+            "刮擦"
+          ]
+        },
+        "scroll": {
+          "name": "界面滚动",
+          "tags": [
+            "ui",
+            "scroll",
+            "界面",
+            "滚动"
+          ]
+        },
+        "select": {
+          "name": "界面选择",
+          "tags": [
+            "ui",
+            "select",
+            "selection",
+            "界面",
+            "选择"
+          ]
+        },
+        "switch": {
+          "name": "界面切换",
+          "tags": [
+            "ui",
+            "switch",
+            "界面",
+            "切换"
+          ]
+        },
+        "tick": {
+          "name": "轻触提示",
+          "tags": [
+            "ui",
+            "tick",
+            "notification",
+            "界面",
+            "提示"
+          ]
+        },
+        "toggle": {
+          "name": "界面开关",
+          "tags": [
+            "ui",
+            "toggle",
+            "switch",
+            "界面",
+            "开关"
+          ]
+        }
+      },
+      "files": [
+        {
+          "path": "Audio/back_001.ogg",
+          "sha256": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf"
+        },
+        {
+          "path": "Audio/back_002.ogg",
+          "sha256": "61581c58194e3f19f531072edabbc344204c7e0a2887b8ededce4357bcf09195"
+        },
+        {
+          "path": "Audio/back_003.ogg",
+          "sha256": "ff5e87de1230b1a5f1fa83e5a4ba9d7eb1c07154267ac34b510a17d4caa03cef"
+        },
+        {
+          "path": "Audio/back_004.ogg",
+          "sha256": "c22e3c49f42c2a5ba6748e91283efe124f32822469c1258c3e5d7b3d7ab9361c"
+        },
+        {
+          "path": "Audio/bong_001.ogg",
+          "sha256": "d21d0f0b782445db579d11e2506b24cd1ac9d664ee33aeaf807761aa7b6fd710"
+        },
+        {
+          "path": "Audio/click_001.ogg",
+          "sha256": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9"
+        },
+        {
+          "path": "Audio/click_002.ogg",
+          "sha256": "adcd1f4adc35f1b41bc1b5bbefeff7aa44f2f3f0d96d3199b544140c7c1e761c"
+        },
+        {
+          "path": "Audio/click_003.ogg",
+          "sha256": "2fa929138bc3a0f432696588f66eac94b8f6d463905ec8808c6461ce4b054292"
+        },
+        {
+          "path": "Audio/click_004.ogg",
+          "sha256": "09e2c1b643b71b9aff9932b4e02d78db116446b9a14b00a5b2a9b28d2668fd8e"
+        },
+        {
+          "path": "Audio/click_005.ogg",
+          "sha256": "a3ee7ebb036bc3cdc218ae52bb27548c4f49bcf07505274f8b61b1af8236acc2"
+        },
+        {
+          "path": "Audio/close_001.ogg",
+          "sha256": "44af8249b933e0fd35ec957a638bb1a0b01f85b53fbe9674bf77bd3ca3168ef4"
+        },
+        {
+          "path": "Audio/close_002.ogg",
+          "sha256": "bc4279d2bb2bf86592473eab6a8eab55e51b54a8619315000dbd780a83b102d8"
+        },
+        {
+          "path": "Audio/close_003.ogg",
+          "sha256": "39a1a7f3bc001766c1881841e9903c6b16f5a10b5666e0791d7f6444677d8b05"
+        },
+        {
+          "path": "Audio/close_004.ogg",
+          "sha256": "41b41e01ac75f4bc5a9c8dc3b0de744fa7f877757463692783c12a8ae4bfae6b"
+        },
+        {
+          "path": "Audio/confirmation_001.ogg",
+          "sha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a"
+        },
+        {
+          "path": "Audio/confirmation_002.ogg",
+          "sha256": "33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c"
+        },
+        {
+          "path": "Audio/confirmation_003.ogg",
+          "sha256": "3091bf0be0497f825769ee0733ca7bdc3bcd59bd6c6e8f2ba8f93d580ff38022"
+        },
+        {
+          "path": "Audio/confirmation_004.ogg",
+          "sha256": "568967a3d9f8a8f6af54ea01729c4882284308f2a27d78c07ffd7ee0d6951661"
+        },
+        {
+          "path": "Audio/drop_001.ogg",
+          "sha256": "692ee3a6f1821402ca649ff735bee9591dc4846c8098fc7d6a90fd15fa57c1af"
+        },
+        {
+          "path": "Audio/drop_002.ogg",
+          "sha256": "4ac4d1cef7e936965cbf795852ca2020300b9e2ba7daa59f2bf4f1f7bf416218"
+        },
+        {
+          "path": "Audio/drop_003.ogg",
+          "sha256": "43d086d50f90493a98cd2e09aa6dbf150d164f1578e1ec768d21cb185571ad87"
+        },
+        {
+          "path": "Audio/drop_004.ogg",
+          "sha256": "10738707f9300f9b963ceba46d5da2ed4a221faf7d39484a643c2d3bc151c5f2"
+        },
+        {
+          "path": "Audio/error_001.ogg",
+          "sha256": "46e67425d16339772e8d328fb36a49426c9467418686e11beeb71ff84b0f6433"
+        },
+        {
+          "path": "Audio/error_002.ogg",
+          "sha256": "76810ec365f41078fd0507101da5bb7b8730fe011dde43908329fdabd8575e79"
+        },
+        {
+          "path": "Audio/error_003.ogg",
+          "sha256": "885b28175c7b511118bcffab95675b48bbac9005cf6514656ebdad979276b3ab"
+        },
+        {
+          "path": "Audio/error_004.ogg",
+          "sha256": "0b574cea597d96507e782ae9764f88482ce49f46e931e57054bf7150047f2d69"
+        },
+        {
+          "path": "Audio/error_005.ogg",
+          "sha256": "3f75b11df5b06d68d2c25fbf0e9c9d9e7dd9250562a4007ee34856b8a309a2ae"
+        },
+        {
+          "path": "Audio/error_006.ogg",
+          "sha256": "a97513d7fd2b12b1210c423be943b4c1ab0e899b11db95855e9b74836e646ae0"
+        },
+        {
+          "path": "Audio/error_007.ogg",
+          "sha256": "f1ee4c1ac8bfe1a82eacb54b26f49e8974bab93bcf10c01800bc10dbf730f559"
+        },
+        {
+          "path": "Audio/error_008.ogg",
+          "sha256": "eba17ecb2a426bfd4a8a6acff5f8a86202b6424a77af0fd842e37809a1ab6d81"
+        },
+        {
+          "path": "Audio/glass_001.ogg",
+          "sha256": "183eebee20eb0a532b0b85104d139cbf2673eb66d95c3cc733ac9ea98362e7e8"
+        },
+        {
+          "path": "Audio/glass_002.ogg",
+          "sha256": "08e972c73e53c91d6d310e107e80db60edce78ae47225889a028e628a6f3da49"
+        },
+        {
+          "path": "Audio/glass_003.ogg",
+          "sha256": "9a6f16e3c2eff6fe5d017a4755a28306b14555728831cd00d70308e8f9689566"
+        },
+        {
+          "path": "Audio/glass_004.ogg",
+          "sha256": "2379b58f953e3d86982aa8cddcae763022c6258e9820171bf905ce58b4e97766"
+        },
+        {
+          "path": "Audio/glass_005.ogg",
+          "sha256": "1f6c88008d0d9fe449197512811785e1d4638daf408a96a4a02756530e019172"
+        },
+        {
+          "path": "Audio/glass_006.ogg",
+          "sha256": "840500be48078f1210f1fd7a9ac4e5665ed9b6f4a2b8dce91a237152a65e94cc"
+        },
+        {
+          "path": "Audio/glitch_001.ogg",
+          "sha256": "da78c642bbd95da2c364ed0e991ebbfc5a4c0d281165d932b5819e0dd31a39d2"
+        },
+        {
+          "path": "Audio/glitch_002.ogg",
+          "sha256": "1da06a2e63ce131f5e0316ca27c75fc0d672db7a8f9b986c70693f2bd992eabc"
+        },
+        {
+          "path": "Audio/glitch_003.ogg",
+          "sha256": "d55e0c64aee9f1ab2ba9523d0e256ca76639c3ec2f230405e2ff25aff36020b3"
+        },
+        {
+          "path": "Audio/glitch_004.ogg",
+          "sha256": "d0f4db4d12f88592bc328bd621d356d099eaa2dda37bab37a6cf17891c5026d1"
+        },
+        {
+          "path": "Audio/maximize_001.ogg",
+          "sha256": "fd3e75e1de2f2fda90aceeacaeb0427ac8bddd3b07a6ce2a8f9ba923df3771f9"
+        },
+        {
+          "path": "Audio/maximize_002.ogg",
+          "sha256": "cc51162cb4506158b953b121bf479aad070056533ade5c5cd2f980183127ceb4"
+        },
+        {
+          "path": "Audio/maximize_003.ogg",
+          "sha256": "df16f25d45189f5d44d6a482ab20d5067350ca8525a9affa1f8ce599e31a20a5"
+        },
+        {
+          "path": "Audio/maximize_004.ogg",
+          "sha256": "59c7a24b204be24d2a44a86d1e4d18c2cf51fa0446967a14b2590e8fb3afaf34"
+        },
+        {
+          "path": "Audio/maximize_005.ogg",
+          "sha256": "0ee06fc3ee494723fc95b2224f9dc0af857f2903e7f94d5d33d8e67f454b3cf7"
+        },
+        {
+          "path": "Audio/maximize_006.ogg",
+          "sha256": "f050b3bb77cb0b901bc8df43d2cc1872c353aebae10b4030cf8ae681726ad343"
+        },
+        {
+          "path": "Audio/maximize_007.ogg",
+          "sha256": "3400931f3f3a1e9cf253efef9069bcdf053edd2234e4ee9bf88977c389943484"
+        },
+        {
+          "path": "Audio/maximize_008.ogg",
+          "sha256": "57c074e600e193a303ce781c04c0ccc191c6030f9f106594fd94a65e55435c17"
+        },
+        {
+          "path": "Audio/maximize_009.ogg",
+          "sha256": "b4d56386258b3cc1c8f6e5a22465f8cd65de3d4309e022664050f43151e466cd"
+        },
+        {
+          "path": "Audio/minimize_001.ogg",
+          "sha256": "8481912bc7fa5828924a00ef15b6cd613b994956e0817bd3122065c9b2896d2d"
+        },
+        {
+          "path": "Audio/minimize_002.ogg",
+          "sha256": "670e47846dc003fe29d39c8dfebb8635bfcacae3c0916392c0e8bff659493ad6"
+        },
+        {
+          "path": "Audio/minimize_003.ogg",
+          "sha256": "400e1041499de85ec8b5529a35ff36787288175c4696cf2018ecff24a3a3fd29"
+        },
+        {
+          "path": "Audio/minimize_004.ogg",
+          "sha256": "fcfe6fbb03a728e90b907f34d2ec7bf3ea1857397c3e47ee01990c1be059e4f6"
+        },
+        {
+          "path": "Audio/minimize_005.ogg",
+          "sha256": "4e6792a98c75d3ff187c0c55561c38c569e02c64757ebebb98831cfe84e3e172"
+        },
+        {
+          "path": "Audio/minimize_006.ogg",
+          "sha256": "39d7c47855b9642f43548b7b132c20e20a1490c7eb13d10008c32fcb24da19f8"
+        },
+        {
+          "path": "Audio/minimize_007.ogg",
+          "sha256": "e951505044de0d5d87b72ce7f312ac3fbbdde025ec8c10db70f9d2651a2c8947"
+        },
+        {
+          "path": "Audio/minimize_008.ogg",
+          "sha256": "bc14c17875436dcaaf809c25db5e61454dbc35612880f329ff37a95ef9b6a865"
+        },
+        {
+          "path": "Audio/minimize_009.ogg",
+          "sha256": "885c20fc8b5b52226288794842a403821cd16e9800ec1d76be7a2f1655542eb8"
+        },
+        {
+          "path": "Audio/open_001.ogg",
+          "sha256": "a27c6bb0df7da1e6af5dd5937593c98bc58b6e513f42fe6a3254cd6a6949c648"
+        },
+        {
+          "path": "Audio/open_002.ogg",
+          "sha256": "24ff224fe2c09c6aed1b41249825382dc74cf324b887ff279d8494912ce2beee"
+        },
+        {
+          "path": "Audio/open_003.ogg",
+          "sha256": "bcdca6b5c9c33aa15ca3fb18a1fa8d98a01b528b85be08c5a610e57c75fc022d"
+        },
+        {
+          "path": "Audio/open_004.ogg",
+          "sha256": "4e02b8287bc4d9e7bf7a889cb9e48613c8eb22a310dfb0bf29c2bfd0a1e4bea5"
+        },
+        {
+          "path": "Audio/pluck_001.ogg",
+          "sha256": "be97ec4893a02d6eccfb678daa76c83e34cb2583b834ec2593d2641def739fa4"
+        },
+        {
+          "path": "Audio/pluck_002.ogg",
+          "sha256": "c977fe249ff42d1c93a552b33abc13a8399df3879fa510475426e5c4bbac1da9"
+        },
+        {
+          "path": "Audio/question_001.ogg",
+          "sha256": "abb8f9e4eb2071491b0b15f84ee302386b1847609310c1b000ae174639a6cc5a"
+        },
+        {
+          "path": "Audio/question_002.ogg",
+          "sha256": "46056f10c70dda860e93bd27b66f4d33c0b7154eff28def06471b50028efa5b3"
+        },
+        {
+          "path": "Audio/question_003.ogg",
+          "sha256": "00bafc564e29c12e99da584864a750260e7110378251d63d3aa5b3d727836efe"
+        },
+        {
+          "path": "Audio/question_004.ogg",
+          "sha256": "585ecb58b529dc49b5c5ce5ba93427bf73b7052bae55e49c43ba8f169c93ac99"
+        },
+        {
+          "path": "Audio/scratch_001.ogg",
+          "sha256": "5c294d2e1a6b6d07ee2d75b17105a55ad3527e5482dd60652dc49c2ea4c70096"
+        },
+        {
+          "path": "Audio/scratch_002.ogg",
+          "sha256": "2b07edafc1f3f49c4813f2b0ae9481c566c1f9962a22d5f5b79da7111e058e56"
+        },
+        {
+          "path": "Audio/scratch_003.ogg",
+          "sha256": "2d80371b55ebe2e8b916b84093a8ae7717d09a80c6b617079ade5bd0dacba7b7"
+        },
+        {
+          "path": "Audio/scratch_004.ogg",
+          "sha256": "26009c67ef90ee7a5a2bc458ef9e7f5a9da83da9397a830cff9e4a1813914687"
+        },
+        {
+          "path": "Audio/scratch_005.ogg",
+          "sha256": "65742c15dca9853611e1c9e83bd04ac0d693f79896715cafa90bad39745d7a62"
+        },
+        {
+          "path": "Audio/scroll_001.ogg",
+          "sha256": "320c6aafb2c7a503eae508dc443b72d7f7c0a317bfd16813157ed400cd04cf16"
+        },
+        {
+          "path": "Audio/scroll_002.ogg",
+          "sha256": "6fbcda22bc45349c66f1ba4b56d6c211b12264e83667de4b9af1e4ffcef74be5"
+        },
+        {
+          "path": "Audio/scroll_003.ogg",
+          "sha256": "c2fecaa6e37c73d7141d0bd303d1c2231428d97c19ce83d50236a56804818643"
+        },
+        {
+          "path": "Audio/scroll_004.ogg",
+          "sha256": "431398a3c12ba3aa30ead97f3e2f9b05eb00978facf04b31bda138ab77a2f54c"
+        },
+        {
+          "path": "Audio/scroll_005.ogg",
+          "sha256": "e39d059462225efa31f758fb2e01871cc96781972b5062873a24a55c88174e02"
+        },
+        {
+          "path": "Audio/select_001.ogg",
+          "sha256": "aec0c31ea934a35936ae0d2ab8fac8123c93aa5647f935853a58dbaf90278b7a"
+        },
+        {
+          "path": "Audio/select_002.ogg",
+          "sha256": "4cc6ac5341b9b2c86fef80c347de028e9ab9f2e037586ac7d9fa59a403a1c012"
+        },
+        {
+          "path": "Audio/select_003.ogg",
+          "sha256": "9a612fd2f513d52a296906b41071c990f75defe56be3bee60d2d4e2423b51b8b"
+        },
+        {
+          "path": "Audio/select_004.ogg",
+          "sha256": "eb6cb435f3f2ab14f85f46a2bdd9073ec511d0f1f8d8c890c6636045703a5fd4"
+        },
+        {
+          "path": "Audio/select_005.ogg",
+          "sha256": "ad09146e4ea33b931b2f5dfb4051a4f1fe4a36f1a48c42c5e9269c292ae21214"
+        },
+        {
+          "path": "Audio/select_006.ogg",
+          "sha256": "b44550fa8d3276c072ce7c3c1315d949f7a28a95bc22b3618ad4eea62eac8abe"
+        },
+        {
+          "path": "Audio/select_007.ogg",
+          "sha256": "cd4390dd2b24f09016a5fa1be63334fa0f1859811f4cf29c02e8e2750f6a2cd0"
+        },
+        {
+          "path": "Audio/select_008.ogg",
+          "sha256": "f703b6b1c62dae1c246a46d5c2442802588f68be2df4d17e0d65cf7e0dbfc826"
+        },
+        {
+          "path": "Audio/switch_001.ogg",
+          "sha256": "3b74efad87f1e69dbd1d05c5ad952ab90859b5a3d11da6ec5bd79b4f03b42afa"
+        },
+        {
+          "path": "Audio/switch_002.ogg",
+          "sha256": "6fc395be2ad1f99ce318a5d28f98fb76dbeb676d83a0b28239d8c1fb90736180"
+        },
+        {
+          "path": "Audio/switch_003.ogg",
+          "sha256": "ca12dd32103f401481d5aff56d5e9831174e99bb577139c09b07d046eb8b837e"
+        },
+        {
+          "path": "Audio/switch_004.ogg",
+          "sha256": "541c19cc1ab712a9efc5765df602e7d0da09d9cafdd297ce1e19b092289fd62f"
+        },
+        {
+          "path": "Audio/switch_005.ogg",
+          "sha256": "e94dfab6fd6558068ab3ea97e22e4b4f16b83ee440e6abf33ec4c4e9fbe8a70e"
+        },
+        {
+          "path": "Audio/switch_006.ogg",
+          "sha256": "2676ddc4e341ee557b4d1dc8767ef8655540d66fb3ded6a1614080dbc4dc6f18"
+        },
+        {
+          "path": "Audio/switch_007.ogg",
+          "sha256": "eeaf60c2abc7e1b715e2b032401bcbf6b3753b77f96b238f861a034a75515967"
+        },
+        {
+          "path": "Audio/tick_001.ogg",
+          "sha256": "9d057b918024c787bbe6c00beed13a7ef72a3fa0c259add3cef36582792f4230"
+        },
+        {
+          "path": "Audio/tick_002.ogg",
+          "sha256": "869442f54214be902ec7437f79e400dc91c1bfd90d18a6dd2d5b7e41ffbf457b"
+        },
+        {
+          "path": "Audio/tick_004.ogg",
+          "sha256": "0253d5f7d8d2afbbc370eac2a4539bb844239f0c98343e516d376b137c06d27c"
+        },
+        {
+          "path": "Audio/toggle_001.ogg",
+          "sha256": "ca1d2dde5f0b286abac4f070e23edab8f30927c8a533665cdf2ac6492a415e49"
+        },
+        {
+          "path": "Audio/toggle_002.ogg",
+          "sha256": "1f564f5520cfa0764028ce245ad97599d3ece8f0ab504554c403af92ac72b900"
+        },
+        {
+          "path": "Audio/toggle_003.ogg",
+          "sha256": "7e69aba356d590826cce291bbd9dc6a85d7c53858b0e3712fcad30e1ad080b23"
+        },
+        {
+          "path": "Audio/toggle_004.ogg",
+          "sha256": "d7bf2236fc95a0fe1e3b278259392bcb062644e2d4ec5f9c96f7c09a9928262f"
+        }
+      ]
+    },
+    {
+      "id": "impact",
+      "name": "材质与脚步 · Impact",
+      "original_name": "Impact Sounds",
+      "description": "脚步与金属、玻璃、木头等材质撞击，含不同力度变体。",
+      "count": 130,
+      "bytes": 800850,
+      "sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "license_sha256": "b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Kenney",
+      "source_url": "https://kenney.nl/assets/impact-sounds",
+      "download_url": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip",
+      "groups": {
+        "footstep_carpet": {
+          "name": "地毯脚步",
+          "tags": [
+            "footstep",
+            "carpet",
+            "脚步",
+            "地毯"
+          ]
+        },
+        "footstep_concrete": {
+          "name": "混凝土脚步",
+          "tags": [
+            "footstep",
+            "concrete",
+            "脚步",
+            "混凝土"
+          ]
+        },
+        "footstep_grass": {
+          "name": "草地脚步",
+          "tags": [
+            "footstep",
+            "grass",
+            "脚步",
+            "草地"
+          ]
+        },
+        "footstep_snow": {
+          "name": "雪地脚步",
+          "tags": [
+            "footstep",
+            "snow",
+            "脚步",
+            "雪地"
+          ]
+        },
+        "footstep_wood": {
+          "name": "木头脚步",
+          "tags": [
+            "footstep",
+            "wood",
+            "脚步",
+            "木头"
+          ]
+        },
+        "impactBell_heavy": {
+          "name": "铃铛重撞击",
+          "tags": [
+            "impact",
+            "bell",
+            "铃铛",
+            "heavy",
+            "撞击",
+            "重击"
+          ]
+        },
+        "impactGeneric_light": {
+          "name": "普通轻撞击",
+          "tags": [
+            "impact",
+            "generic",
+            "普通",
+            "light",
+            "撞击",
+            "轻击"
+          ]
+        },
+        "impactGlass_heavy": {
+          "name": "玻璃重撞击",
+          "tags": [
+            "impact",
+            "glass",
+            "玻璃",
+            "heavy",
+            "撞击",
+            "重击"
+          ]
+        },
+        "impactGlass_light": {
+          "name": "玻璃轻撞击",
+          "tags": [
+            "impact",
+            "glass",
+            "玻璃",
+            "light",
+            "撞击",
+            "轻击"
+          ]
+        },
+        "impactGlass_medium": {
+          "name": "玻璃中等撞击",
+          "tags": [
+            "impact",
+            "glass",
+            "玻璃",
+            "medium",
+            "撞击",
+            "中等力度"
+          ]
+        },
+        "impactMetal_heavy": {
+          "name": "金属重撞击",
+          "tags": [
+            "impact",
+            "metal",
+            "金属",
+            "heavy",
+            "撞击",
+            "重击"
+          ]
+        },
+        "impactMetal_light": {
+          "name": "金属轻撞击",
+          "tags": [
+            "impact",
+            "metal",
+            "金属",
+            "light",
+            "撞击",
+            "轻击"
+          ]
+        },
+        "impactMetal_medium": {
+          "name": "金属中等撞击",
+          "tags": [
+            "impact",
+            "metal",
+            "金属",
+            "medium",
+            "撞击",
+            "中等力度"
+          ]
+        },
+        "impactMining": {
+          "name": "采矿敲击",
+          "tags": [
+            "impact",
+            "mining",
+            "pickaxe",
+            "敲击",
+            "采矿"
+          ]
+        },
+        "impactPlank_medium": {
+          "name": "木板中等撞击",
+          "tags": [
+            "impact",
+            "wood",
+            "plank",
+            "木板",
+            "medium",
+            "撞击",
+            "中等力度"
+          ]
+        },
+        "impactPlate_heavy": {
+          "name": "板片重撞击",
+          "tags": [
+            "impact",
+            "plate",
+            "板片",
+            "heavy",
+            "撞击",
+            "重击"
+          ]
+        },
+        "impactPlate_light": {
+          "name": "板片轻撞击",
+          "tags": [
+            "impact",
+            "plate",
+            "板片",
+            "light",
+            "撞击",
+            "轻击"
+          ]
+        },
+        "impactPlate_medium": {
+          "name": "板片中等撞击",
+          "tags": [
+            "impact",
+            "plate",
+            "板片",
+            "medium",
+            "撞击",
+            "中等力度"
+          ]
+        },
+        "impactPunch_heavy": {
+          "name": "拳击重撞击",
+          "tags": [
+            "impact",
+            "punch",
+            "拳击",
+            "heavy",
+            "撞击",
+            "重击"
+          ]
+        },
+        "impactPunch_medium": {
+          "name": "拳击中等撞击",
+          "tags": [
+            "impact",
+            "punch",
+            "拳击",
+            "medium",
+            "撞击",
+            "中等力度"
+          ]
+        },
+        "impactSoft_heavy": {
+          "name": "柔软物体重撞击",
+          "tags": [
+            "impact",
+            "soft",
+            "柔软物体",
+            "heavy",
+            "撞击",
+            "重击"
+          ]
+        },
+        "impactSoft_medium": {
+          "name": "柔软物体中等撞击",
+          "tags": [
+            "impact",
+            "soft",
+            "柔软物体",
+            "medium",
+            "撞击",
+            "中等力度"
+          ]
+        },
+        "impactTin_medium": {
+          "name": "锡质中等撞击",
+          "tags": [
+            "impact",
+            "metal",
+            "tin",
+            "锡",
+            "medium",
+            "撞击",
+            "中等力度"
+          ]
+        },
+        "impactWood_heavy": {
+          "name": "木头重撞击",
+          "tags": [
+            "impact",
+            "wood",
+            "木头",
+            "heavy",
+            "撞击",
+            "重击"
+          ]
+        },
+        "impactWood_light": {
+          "name": "木头轻撞击",
+          "tags": [
+            "impact",
+            "wood",
+            "木头",
+            "light",
+            "撞击",
+            "轻击"
+          ]
+        },
+        "impactWood_medium": {
+          "name": "木头中等撞击",
+          "tags": [
+            "impact",
+            "wood",
+            "木头",
+            "medium",
+            "撞击",
+            "中等力度"
+          ]
+        }
+      },
+      "files": [
+        {
+          "path": "Audio/footstep_carpet_000.ogg",
+          "sha256": "b9524658b52a99a20590f8feefc103088637fd13ea8ec35811aee785e1f2f330"
+        },
+        {
+          "path": "Audio/footstep_carpet_001.ogg",
+          "sha256": "9af3c3f76705107339e72036e4053bdca3eaa50ad31c8c929f42ce8d40e5d781"
+        },
+        {
+          "path": "Audio/footstep_carpet_002.ogg",
+          "sha256": "9af3c3f76705107339e72036e4053bdca3eaa50ad31c8c929f42ce8d40e5d781"
+        },
+        {
+          "path": "Audio/footstep_carpet_003.ogg",
+          "sha256": "4ae7454338d57c7d102145919ae653c7d010eb542797c4f25a1c7470be3a7e4c"
+        },
+        {
+          "path": "Audio/footstep_carpet_004.ogg",
+          "sha256": "4ae7454338d57c7d102145919ae653c7d010eb542797c4f25a1c7470be3a7e4c"
+        },
+        {
+          "path": "Audio/footstep_concrete_000.ogg",
+          "sha256": "d7267e183067757c92c169de2a379abea592cfca6b39bb2e8feea15221ad79fe"
+        },
+        {
+          "path": "Audio/footstep_concrete_001.ogg",
+          "sha256": "507a75eb19b897087855a3be3cf11a12d7fa37d143ad535eeebe0b8031c7325d"
+        },
+        {
+          "path": "Audio/footstep_concrete_002.ogg",
+          "sha256": "b21fa546d74941196b25da8a20b7010abd8c05c4fcf93545d1f344e66a664e13"
+        },
+        {
+          "path": "Audio/footstep_concrete_003.ogg",
+          "sha256": "8b513c2f0316324060b9174b8f28df6c2147418c506e6a53b77f18e149a5547b"
+        },
+        {
+          "path": "Audio/footstep_concrete_004.ogg",
+          "sha256": "24dd8db2413e5b81ad181e1205c12a1c7801da5f85715d471b92a4b2f632e45e"
+        },
+        {
+          "path": "Audio/footstep_grass_000.ogg",
+          "sha256": "9d49497777405d78d7cf7f2888e28277f3a23192300cfd1d79d54876b20f479f"
+        },
+        {
+          "path": "Audio/footstep_grass_001.ogg",
+          "sha256": "fb28781bd22b2eefdc14077f1adf5c94d7fe9c3a130194633b55f3e0d39d9f04"
+        },
+        {
+          "path": "Audio/footstep_grass_002.ogg",
+          "sha256": "73a520139f5be716a403bfe9c80e0e94d1e61d8e9de04a354b336392164b53dc"
+        },
+        {
+          "path": "Audio/footstep_grass_003.ogg",
+          "sha256": "0546e1d8ab2def714425701a18bd34c5ee2794b12e858e5b595aabcf38a34137"
+        },
+        {
+          "path": "Audio/footstep_grass_004.ogg",
+          "sha256": "086fd4ab3546a507ea5f5c759a9a10e535c95ade13705c238bc0eeffd7d4e8ba"
+        },
+        {
+          "path": "Audio/footstep_snow_000.ogg",
+          "sha256": "c05fa4a9dc9a7aabc04996466fb589537e49af76de9998d8f9e6270ec92dcef7"
+        },
+        {
+          "path": "Audio/footstep_snow_001.ogg",
+          "sha256": "980fb9a1c9227aed7995067b0357f373053337f2416316db8ea0438418542fb4"
+        },
+        {
+          "path": "Audio/footstep_snow_002.ogg",
+          "sha256": "db52bafdc66304f3b999f2c29227826c65993916e630ac2ffbca17d07b263178"
+        },
+        {
+          "path": "Audio/footstep_snow_003.ogg",
+          "sha256": "68272e3f1cabcabd02d328fd344454d7c04cb58b5a86972fcdd858f845e3d007"
+        },
+        {
+          "path": "Audio/footstep_snow_004.ogg",
+          "sha256": "7fe9ce5f5732aaa0a50ef02bb1ac162c27f6bd85214e86aaea6e13e7a41dbc00"
+        },
+        {
+          "path": "Audio/footstep_wood_000.ogg",
+          "sha256": "5f1c252942a220d658121bd9417448cd19649ded9fff2ff15f6e50899373ce8e"
+        },
+        {
+          "path": "Audio/footstep_wood_001.ogg",
+          "sha256": "e4f68e1c9fd55b4dc8ca89ed2bbab6f200171bc54bdc18aa96b80d8e7336f462"
+        },
+        {
+          "path": "Audio/footstep_wood_002.ogg",
+          "sha256": "9ff095b05cee5eec40b081defe3f0eef7232bb16d4865ce03b9f6dbab875cfdd"
+        },
+        {
+          "path": "Audio/footstep_wood_003.ogg",
+          "sha256": "2a68a083daa9eda08fed0ea5da5280dfbe0de226196c576be02f95259dd139d9"
+        },
+        {
+          "path": "Audio/footstep_wood_004.ogg",
+          "sha256": "b33e0854e2b3f6b6492e25c25ef8f90447a332f7c6bb25dd02edced9581d3441"
+        },
+        {
+          "path": "Audio/impactBell_heavy_000.ogg",
+          "sha256": "94b8bb5f2d43ab65e4bcc32b28562416e9bc2c51d9fd4be1e333660ee52f977f"
+        },
+        {
+          "path": "Audio/impactBell_heavy_001.ogg",
+          "sha256": "9df61e3ae9a83dc65e5a1fd3ed19d480876f3b22b963a1b9ef6fa293592dcec4"
+        },
+        {
+          "path": "Audio/impactBell_heavy_002.ogg",
+          "sha256": "a4171ed1a4a17fb858a38de1c59b5b42e50d8f046c525706c0e3ac8671f189f5"
+        },
+        {
+          "path": "Audio/impactBell_heavy_003.ogg",
+          "sha256": "5572ccdeb3b62373b86fa955355b3a222c36e815f0636ba16165189a21cf2514"
+        },
+        {
+          "path": "Audio/impactBell_heavy_004.ogg",
+          "sha256": "49fe4fafa2001bd0d312976796824571ca8429851f285997e1327d17bb34fd00"
+        },
+        {
+          "path": "Audio/impactGeneric_light_000.ogg",
+          "sha256": "f0e982611e97512fee5f777986b67e8b435434b601f94992ec044f7e89fb5acb"
+        },
+        {
+          "path": "Audio/impactGeneric_light_001.ogg",
+          "sha256": "c3cd1c073d186ae8fa35788ba94de581f1826e7427a7bb26490b2695fac18efa"
+        },
+        {
+          "path": "Audio/impactGeneric_light_002.ogg",
+          "sha256": "d0bf60905b59ff630ffe01eb0edeeacd2504eaa8fb6523aeef7d2458b78264d3"
+        },
+        {
+          "path": "Audio/impactGeneric_light_003.ogg",
+          "sha256": "0e8896706130f6bc88cdf1f0157aaacdbe88dce86cf0330f9136e44eb1209e81"
+        },
+        {
+          "path": "Audio/impactGeneric_light_004.ogg",
+          "sha256": "f906fa3a37acc4372787b496efcedefa2856045d5ec9456a3bd6c303c0eabb41"
+        },
+        {
+          "path": "Audio/impactGlass_heavy_000.ogg",
+          "sha256": "b44b39a940e8948e74b9bd3776bff980df43cf220abdaf0d467dc4c43c0244a5"
+        },
+        {
+          "path": "Audio/impactGlass_heavy_001.ogg",
+          "sha256": "58686e0e562612cc566791844a10e269f8d1921f4766c14ba43976fd0a429f4e"
+        },
+        {
+          "path": "Audio/impactGlass_heavy_002.ogg",
+          "sha256": "4978654ac840ad519692d5d5ba48a8101cabce13b9a577be73ad589185e5e9ed"
+        },
+        {
+          "path": "Audio/impactGlass_heavy_003.ogg",
+          "sha256": "aed07b154f24410c17e5262bbef832842fb275d41fe297f721af7501d0e9c23a"
+        },
+        {
+          "path": "Audio/impactGlass_heavy_004.ogg",
+          "sha256": "c7742b0e33c1733ddaf902aa68464a4f5364e4d4cb6ff11b76a7aa4151a138dd"
+        },
+        {
+          "path": "Audio/impactGlass_light_000.ogg",
+          "sha256": "d750cf88097d0c3e69920e6e14496e1444e1a9da01aa4cca8f5ec8cb44c57b4f"
+        },
+        {
+          "path": "Audio/impactGlass_light_001.ogg",
+          "sha256": "05e513fbd42829060eb37855f8c3866722ec5c39a8937c9bfde518cc609effa2"
+        },
+        {
+          "path": "Audio/impactGlass_light_002.ogg",
+          "sha256": "710db7451bb7857b9140dfe6afe4621ea2188ad65eda3919c569d1bb285b933d"
+        },
+        {
+          "path": "Audio/impactGlass_light_003.ogg",
+          "sha256": "765290ce32fa108c939a0dbd6fbacbcd05abde622b57b708eb8a64058ef4225a"
+        },
+        {
+          "path": "Audio/impactGlass_light_004.ogg",
+          "sha256": "f535b7cb7835400d8d28bcf9e1cf047ce3c0eb7a6456bdb1a4a27acbec1ed2cb"
+        },
+        {
+          "path": "Audio/impactGlass_medium_000.ogg",
+          "sha256": "9252d50bfb85edb17d6073c4a7806e10cdb9de56d3dbfc93a4b9727146d2df6d"
+        },
+        {
+          "path": "Audio/impactGlass_medium_001.ogg",
+          "sha256": "d3d806cb3012c9ddd87010b30295ccb74d6d8b690077d19e67afd09a9d8feb03"
+        },
+        {
+          "path": "Audio/impactGlass_medium_002.ogg",
+          "sha256": "48616f22c95589ed9fe55babf0fd012721d7b2ef1b9e85c2ad6408a2cd7c164f"
+        },
+        {
+          "path": "Audio/impactGlass_medium_003.ogg",
+          "sha256": "dccea1ecc3d942ee5fd217c684632638f6c039c97cd3ae59c75ab15d0c3f0b59"
+        },
+        {
+          "path": "Audio/impactGlass_medium_004.ogg",
+          "sha256": "853fe77ad46bd0cf106e40e741b039e15b90f73edecd92cde524fbad9e3ebe00"
+        },
+        {
+          "path": "Audio/impactMetal_heavy_000.ogg",
+          "sha256": "e07045693e4a2b3d165c424e3dab4c781d9ff8880a386880ac89a51315d7f831"
+        },
+        {
+          "path": "Audio/impactMetal_heavy_001.ogg",
+          "sha256": "83554049f81f4db9209379e103c30bfa63f65c42189a03f300b045c2c82e23ae"
+        },
+        {
+          "path": "Audio/impactMetal_heavy_002.ogg",
+          "sha256": "b914c8f1eb7c0f34bb165d7c77f4be0351f6be0660c13c53e65424e262e2c093"
+        },
+        {
+          "path": "Audio/impactMetal_heavy_003.ogg",
+          "sha256": "b0f2ba4dabde9a87eb9c188a19d31e0c2300fd321adeba08d3b9b8aa011d7037"
+        },
+        {
+          "path": "Audio/impactMetal_heavy_004.ogg",
+          "sha256": "6d65b463c0555dd5be16b8db6d2cbe23a94e07a4637779b8ad17d0db3e500a87"
+        },
+        {
+          "path": "Audio/impactMetal_light_000.ogg",
+          "sha256": "33b5e6e37c6e9d54e07bf5a89b12c76e879f40c1ea83cdd82714df1d6f9fec6d"
+        },
+        {
+          "path": "Audio/impactMetal_light_001.ogg",
+          "sha256": "fba69c467ddd85da7b1d82e259f936b876d9ba6a3d6f1b24bdd10468e46bfe08"
+        },
+        {
+          "path": "Audio/impactMetal_light_002.ogg",
+          "sha256": "25a96f90a9a1f88a531e824e126f0519504625e5635e65a72e4f31611428db29"
+        },
+        {
+          "path": "Audio/impactMetal_light_003.ogg",
+          "sha256": "92d5db6bfc672d9dc1b4f390b2900504f013187fa36335472554fafefa9050b1"
+        },
+        {
+          "path": "Audio/impactMetal_light_004.ogg",
+          "sha256": "9b1c35820fba507081261f19ab5f461f69a5e2627a7d91acdb73ca3cfc997979"
+        },
+        {
+          "path": "Audio/impactMetal_medium_000.ogg",
+          "sha256": "a96f879fec0864a8938e0c745b6996a6c5679c16a234ce31a01cc995e8401003"
+        },
+        {
+          "path": "Audio/impactMetal_medium_001.ogg",
+          "sha256": "e8a9eaba7c4d27422e4eeb3e6c7100d5d7dc0f83e005efc98c960adcc5265337"
+        },
+        {
+          "path": "Audio/impactMetal_medium_002.ogg",
+          "sha256": "7e89ce2ca0dbda95ea2b78d4b50791cab35c10d20e9f5ccd45dd0b00e99ff548"
+        },
+        {
+          "path": "Audio/impactMetal_medium_003.ogg",
+          "sha256": "2a185e2e57211d02c1bdd33b872d6b6a2fe83e6c14f4e56f426a95e717acf08e"
+        },
+        {
+          "path": "Audio/impactMetal_medium_004.ogg",
+          "sha256": "03e10f800199c7166208e41c11cf4acfac6cc265467f02357da71972bc967295"
+        },
+        {
+          "path": "Audio/impactMining_000.ogg",
+          "sha256": "36b4ea107222d073c67ca64dde26944975609202d5090b2f2021213c1a7e35cd"
+        },
+        {
+          "path": "Audio/impactMining_001.ogg",
+          "sha256": "61235a18de3f3d92118235398222dbf51d448f1be70b1c8bc962b10b86f2d9c6"
+        },
+        {
+          "path": "Audio/impactMining_002.ogg",
+          "sha256": "059558ec751115ca6b1441e00f0adc837c1a3eeb0a066b109e0fd879fc5d0b0c"
+        },
+        {
+          "path": "Audio/impactMining_003.ogg",
+          "sha256": "4237fa2cd80364ad81cd0af44f67d7497f1c5edcc7bdb02cd22be2ba4580c83d"
+        },
+        {
+          "path": "Audio/impactMining_004.ogg",
+          "sha256": "8ca3a99d85d845751ad8ce7b40509da58263a62e48cde70e5a30b5ccef4c9a3b"
+        },
+        {
+          "path": "Audio/impactPlank_medium_000.ogg",
+          "sha256": "8403cd7a043f0391574c88c55dd205743725b5363d2407f6de145f201690b68f"
+        },
+        {
+          "path": "Audio/impactPlank_medium_001.ogg",
+          "sha256": "d7c304319f8beac616231b62041fa8da74045b62d7155965516efb9b19303df4"
+        },
+        {
+          "path": "Audio/impactPlank_medium_002.ogg",
+          "sha256": "f6a14da45994229676b4f29e6a35f504b5c2ec2b8166fb1a3b1aa004bc6911ef"
+        },
+        {
+          "path": "Audio/impactPlank_medium_003.ogg",
+          "sha256": "0602a7b3eab5f53484f10fe775ee4204e7a2ba9703c886b302e012f7f6fab8de"
+        },
+        {
+          "path": "Audio/impactPlank_medium_004.ogg",
+          "sha256": "6a51318c1c63821ea757622b57fafbf44c16c28129f6d39406a784260d87c447"
+        },
+        {
+          "path": "Audio/impactPlate_heavy_000.ogg",
+          "sha256": "112d4f93ddcc370b410630f971c0f5d991856102da9c76bc5c5540d388e75aaa"
+        },
+        {
+          "path": "Audio/impactPlate_heavy_001.ogg",
+          "sha256": "142fd6c77f13d25f318265901163f70f8dfe12f87829169a570025be43de7011"
+        },
+        {
+          "path": "Audio/impactPlate_heavy_002.ogg",
+          "sha256": "b0cab75d1befa32b4cf215d8ee7e1c400a39182e8b105963b8e310f825b198a1"
+        },
+        {
+          "path": "Audio/impactPlate_heavy_003.ogg",
+          "sha256": "59775f8979a396c8a793b0a1db206d5bdc651eae808d858e9acaee8ebda5bc6d"
+        },
+        {
+          "path": "Audio/impactPlate_heavy_004.ogg",
+          "sha256": "e31bfec90630155bcc6af541d1d14ae8202c435c52b42e6b6183fdb6ffb248b0"
+        },
+        {
+          "path": "Audio/impactPlate_light_000.ogg",
+          "sha256": "6e797cf8a5bfc52d7ed5eb47c227974c1cf2a674954fec5b539cea7d62c7282c"
+        },
+        {
+          "path": "Audio/impactPlate_light_001.ogg",
+          "sha256": "947915c2eb6ac57ee08fd3a48b297fd108d69abc72076e79882c21cad0eef56e"
+        },
+        {
+          "path": "Audio/impactPlate_light_002.ogg",
+          "sha256": "8ac5869ea434cf0d364872774efe70b2d666a4f02ba35ddfc1e051d336721be8"
+        },
+        {
+          "path": "Audio/impactPlate_light_003.ogg",
+          "sha256": "dbfb7c1d002576696df3e9a43d6639ee3f342068398b5e7b55bc2389d20508a9"
+        },
+        {
+          "path": "Audio/impactPlate_light_004.ogg",
+          "sha256": "9cb33b0c0cce948313f078b60769d2f8e4075472494fc8f8129aa4a23c951897"
+        },
+        {
+          "path": "Audio/impactPlate_medium_000.ogg",
+          "sha256": "b670d30452983369771081319c268475edaaafe782bf4e8d70bd7eef09d8823c"
+        },
+        {
+          "path": "Audio/impactPlate_medium_001.ogg",
+          "sha256": "68ba7701b71ef620f498f3038e832157d71ac8db7ad59424545890b250ceb24e"
+        },
+        {
+          "path": "Audio/impactPlate_medium_002.ogg",
+          "sha256": "68762e1ed49bb59ae6602fad6ce2ebac61958478ddb2668de9106f010cd4b6b0"
+        },
+        {
+          "path": "Audio/impactPlate_medium_003.ogg",
+          "sha256": "964c5fcfb91e7710e2af25c2243c8b7160756b223b0984bacc9eb25bfeea057b"
+        },
+        {
+          "path": "Audio/impactPlate_medium_004.ogg",
+          "sha256": "f0e8164081190839caff6c2958361b22780ffba5617f77f2d4ee3a4275b318bf"
+        },
+        {
+          "path": "Audio/impactPunch_heavy_000.ogg",
+          "sha256": "b33a8f14068aec24ec69ba85e5e87fdc41228975f6a1a3e44a6e7d6fc3d9f8d8"
+        },
+        {
+          "path": "Audio/impactPunch_heavy_001.ogg",
+          "sha256": "f92f5cb6ba4ff2766497292ffd90865654317eeca976f5652e0708dbdcdc0dd9"
+        },
+        {
+          "path": "Audio/impactPunch_heavy_002.ogg",
+          "sha256": "7993dd4c156b9979ad69f17be5ebe31850b16039a3857f8477141be54dfee1b3"
+        },
+        {
+          "path": "Audio/impactPunch_heavy_003.ogg",
+          "sha256": "4ab53b26f4ea575120dcc1348526c9e0db2afc6af7a442aa0489bdead2ca80b6"
+        },
+        {
+          "path": "Audio/impactPunch_heavy_004.ogg",
+          "sha256": "f4c0c3eb8ab6517583b8218ed03f28923d1b687379aab4c1d5a6d4c10cf8e500"
+        },
+        {
+          "path": "Audio/impactPunch_medium_000.ogg",
+          "sha256": "486988aa2d6440ffc4c62a0e8ccf3c23673ba84424bd4723378d451b7255eb5c"
+        },
+        {
+          "path": "Audio/impactPunch_medium_001.ogg",
+          "sha256": "e71d23abcc3f10d9d6bc9615b2a431fff70b12333a5fcdd9964457564ace4349"
+        },
+        {
+          "path": "Audio/impactPunch_medium_002.ogg",
+          "sha256": "6492f9ccbc8d24dcef607bb1b48790b7870961474561f7fe5601e1c73a3018ef"
+        },
+        {
+          "path": "Audio/impactPunch_medium_003.ogg",
+          "sha256": "2d7c719c05999e0532f4384e1018e04cd916db715140bf16dee2dff3f820e908"
+        },
+        {
+          "path": "Audio/impactPunch_medium_004.ogg",
+          "sha256": "4a256878a3afb994ec9a4399336687748e68c7c136872c08c9c797d8c4e2464a"
+        },
+        {
+          "path": "Audio/impactSoft_heavy_000.ogg",
+          "sha256": "49e7ca88743fca974bb8676ea138b751cfd8f9033b5e7af8736c2a215d6edbc1"
+        },
+        {
+          "path": "Audio/impactSoft_heavy_001.ogg",
+          "sha256": "4d0096364ba9e46119d2ff6df493fdc101bd2e1efae061da5e5f77a53b3fdcb6"
+        },
+        {
+          "path": "Audio/impactSoft_heavy_002.ogg",
+          "sha256": "d130ae541951243d3f6ed963d0057450a445ffe117fbf9a084d34eb1635cb563"
+        },
+        {
+          "path": "Audio/impactSoft_heavy_003.ogg",
+          "sha256": "d00286a2dc62ee5cb4d42bf56120e7050a855f69e655fc1294410aadd337eba3"
+        },
+        {
+          "path": "Audio/impactSoft_heavy_004.ogg",
+          "sha256": "e008f0b6b14f62339c8fe9f9b45cbd6317ba4f66604c4899053b8017020a36f0"
+        },
+        {
+          "path": "Audio/impactSoft_medium_000.ogg",
+          "sha256": "7d3ba0bb5e60a11b5d3e558c141303dcf494256675fbf753c0d252d2cf0481e3"
+        },
+        {
+          "path": "Audio/impactSoft_medium_001.ogg",
+          "sha256": "7642a4fd43e547afe4f7adfadb3dabb681c0ff512f52c1674bae30a726841faf"
+        },
+        {
+          "path": "Audio/impactSoft_medium_002.ogg",
+          "sha256": "5069e3571a77d7f7aae9ef71d0364aa245fb7d64a7c8cc9956f221d03088c089"
+        },
+        {
+          "path": "Audio/impactSoft_medium_003.ogg",
+          "sha256": "5c4a1f35fde7e14046931da7bc3d1b23736541b7190ba107e08a379c4ca43cd6"
+        },
+        {
+          "path": "Audio/impactSoft_medium_004.ogg",
+          "sha256": "b0a4dea90eed47accf50b768beff1166f2f1486fb139e4d025b2427637624bca"
+        },
+        {
+          "path": "Audio/impactTin_medium_000.ogg",
+          "sha256": "f4bbee66ca191ec744b84fc07ac9ed2a6fda955d51cfed8360f12b62815d3cbd"
+        },
+        {
+          "path": "Audio/impactTin_medium_001.ogg",
+          "sha256": "84253095543c094d83cd749f42ecfbc96e356b60385f18a192c18eafb25b3cc6"
+        },
+        {
+          "path": "Audio/impactTin_medium_002.ogg",
+          "sha256": "c1d2c4f9910d4529581ae56a9a9a01454c4619fbb7d6da7616221d8ec58cc0c4"
+        },
+        {
+          "path": "Audio/impactTin_medium_003.ogg",
+          "sha256": "0d18737d93ba7aa0669f751094cbc1671bbebac4fe207783922938ce75e24334"
+        },
+        {
+          "path": "Audio/impactTin_medium_004.ogg",
+          "sha256": "fd53e24efec3d5c1cee5a46fee70f97efd4bd01e53ac5d9b5f3b6719dfe9f5aa"
+        },
+        {
+          "path": "Audio/impactWood_heavy_000.ogg",
+          "sha256": "15ff82332f342c30e469215539e1cc57e11b221aa2cf7e11e811d313a9927f3d"
+        },
+        {
+          "path": "Audio/impactWood_heavy_001.ogg",
+          "sha256": "f1b07a53ac10c615fff9ba470511fdeb722b5902e1a8520759fc20ad6f546015"
+        },
+        {
+          "path": "Audio/impactWood_heavy_002.ogg",
+          "sha256": "ce1e06f2a05f2634c645cb72f6a1623e64bc2d92be34917430a61031fb6597d4"
+        },
+        {
+          "path": "Audio/impactWood_heavy_003.ogg",
+          "sha256": "af07511902b309b3f6d8f0e1fafbe93869127fb88099ebdc0aa6a00a98dc3cb0"
+        },
+        {
+          "path": "Audio/impactWood_heavy_004.ogg",
+          "sha256": "2c647ae6bd29c72ae2523f7e16e325d8d331b75cc99ab4f637c48a0e11c34677"
+        },
+        {
+          "path": "Audio/impactWood_light_000.ogg",
+          "sha256": "eb45e35b4bed784d3f120de4afec4b0d6ac09d9e143cce8cfcb7d739e1b1f3c3"
+        },
+        {
+          "path": "Audio/impactWood_light_001.ogg",
+          "sha256": "4b76bf3ccc8e60d19188f3165b778a7817786faa6887c55d9049bcbeef3b425f"
+        },
+        {
+          "path": "Audio/impactWood_light_002.ogg",
+          "sha256": "b183cf7a5bd783817e0e4b82af34ac6658fa1927049089dadc8b15c2ecc771dc"
+        },
+        {
+          "path": "Audio/impactWood_light_003.ogg",
+          "sha256": "cdfbe8af2fe7ff9ee28f337a0a989deee0f327620da456c8413644880e9d0004"
+        },
+        {
+          "path": "Audio/impactWood_light_004.ogg",
+          "sha256": "e10009f67ddaeb3a59a3e1129cfc1615d84ba60ab578eae07e7092ac223f099c"
+        },
+        {
+          "path": "Audio/impactWood_medium_000.ogg",
+          "sha256": "1723a9fd25103ed41af06054814e84e65f4a772bac86ab2dc927da93d9592ff5"
+        },
+        {
+          "path": "Audio/impactWood_medium_001.ogg",
+          "sha256": "15271dbe8e2872dbb0ff1aeb7b12b2d2b92b7c1951c88532b9ab9158c36dfc73"
+        },
+        {
+          "path": "Audio/impactWood_medium_002.ogg",
+          "sha256": "3f3f1917428b828f733a963167833c707bf88296ff158e1559c57c5cb813d799"
+        },
+        {
+          "path": "Audio/impactWood_medium_003.ogg",
+          "sha256": "635c37cfcd854b187d643d450ff0397798dcc29ae94da32192b814fae6bd854c"
+        },
+        {
+          "path": "Audio/impactWood_medium_004.ogg",
+          "sha256": "7ba48f2f99c91c71be420841a91f1e69c0cbc4fe887fcd7213144d67bb87b13a"
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "电子与科幻 · Digital",
+      "original_name": "Digital Audio",
+      "description": "激光、强化、电击及电子音调；保留原始短音效。",
+      "count": 62,
+      "bytes": 990367,
+      "sha256": "24e6ce28b76a6d8c89cff4d331e0965ff5c3de8a73c612028e9d363cc64e4f06",
+      "license_sha256": "654d24e000d1c3b2a1d2264151f49e273e8a26d24e26e9bffc2aeb48cea93815",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Kenney",
+      "source_url": "https://kenney.nl/assets/digital-audio",
+      "download_url": "https://kenney.nl/media/pages/assets/digital-audio/216eac4753-1677590265/kenney_digital-audio.zip",
+      "groups": {
+        "highDown": {
+          "name": "高音下降",
+          "tags": [
+            "digital",
+            "tone",
+            "high",
+            "down",
+            "电子",
+            "高音",
+            "下降"
+          ]
+        },
+        "highUp": {
+          "name": "高音上升",
+          "tags": [
+            "digital",
+            "tone",
+            "high",
+            "up",
+            "电子",
+            "高音",
+            "上升"
+          ]
+        },
+        "laser": {
+          "name": "激光音效",
+          "tags": [
+            "scifi",
+            "laser",
+            "科幻",
+            "激光"
+          ]
+        },
+        "lowDown": {
+          "name": "低音下降",
+          "tags": [
+            "digital",
+            "tone",
+            "low",
+            "down",
+            "电子",
+            "低音",
+            "下降"
+          ]
+        },
+        "lowRandom": {
+          "name": "低音随机变化",
+          "tags": [
+            "digital",
+            "tone",
+            "low",
+            "random",
+            "电子",
+            "低音",
+            "随机"
+          ]
+        },
+        "lowThreeTone": {
+          "name": "低音三连音",
+          "tags": [
+            "digital",
+            "low",
+            "three",
+            "tone",
+            "电子",
+            "低音",
+            "三连音"
+          ]
+        },
+        "pepSound": {
+          "name": "电子短音",
+          "tags": [
+            "digital",
+            "pep",
+            "tone",
+            "电子",
+            "短音"
+          ]
+        },
+        "phaseJump": {
+          "name": "相位跳变",
+          "tags": [
+            "scifi",
+            "phase",
+            "jump",
+            "科幻",
+            "相位跳变"
+          ]
+        },
+        "phaserDown": {
+          "name": "相位下降",
+          "tags": [
+            "scifi",
+            "phaser",
+            "down",
+            "科幻",
+            "相位",
+            "下降"
+          ]
+        },
+        "phaserUp": {
+          "name": "相位上升",
+          "tags": [
+            "scifi",
+            "phaser",
+            "up",
+            "科幻",
+            "相位",
+            "上升"
+          ]
+        },
+        "powerUp": {
+          "name": "强化增益",
+          "tags": [
+            "digital",
+            "powerup",
+            "power-up",
+            "电子",
+            "强化",
+            "增益"
+          ]
+        },
+        "spaceTrash": {
+          "name": "太空杂音",
+          "tags": [
+            "scifi",
+            "space",
+            "trash",
+            "科幻",
+            "太空",
+            "杂音"
+          ]
+        },
+        "threeTone": {
+          "name": "电子三连音",
+          "tags": [
+            "digital",
+            "three",
+            "tone",
+            "电子",
+            "三连音"
+          ]
+        },
+        "tone": {
+          "name": "电子音调",
+          "tags": [
+            "digital",
+            "tone",
+            "电子",
+            "音调"
+          ]
+        },
+        "twoTone": {
+          "name": "电子双音",
+          "tags": [
+            "digital",
+            "two",
+            "tone",
+            "电子",
+            "双音"
+          ]
+        },
+        "zap": {
+          "name": "电击短音",
+          "tags": [
+            "scifi",
+            "electricity",
+            "zap",
+            "科幻",
+            "电击"
+          ]
+        },
+        "zapThreeToneDown": {
+          "name": "电击三连音下降",
+          "tags": [
+            "scifi",
+            "electricity",
+            "zap",
+            "three",
+            "tone",
+            "down",
+            "科幻",
+            "电击",
+            "三连音",
+            "下降"
+          ]
+        },
+        "zapThreeToneUp": {
+          "name": "电击三连音上升",
+          "tags": [
+            "scifi",
+            "electricity",
+            "zap",
+            "three",
+            "tone",
+            "up",
+            "科幻",
+            "电击",
+            "三连音",
+            "上升"
+          ]
+        },
+        "zapTwoTone": {
+          "name": "电击双音",
+          "tags": [
+            "scifi",
+            "electricity",
+            "zap",
+            "two",
+            "tone",
+            "科幻",
+            "电击",
+            "双音"
+          ]
+        }
+      },
+      "files": [
+        {
+          "path": "Audio/highDown.ogg",
+          "sha256": "cdbea353b2e435b4f869c7b045af81079c5d5eb81cfbbc805013ccc3a7a0f36a"
+        },
+        {
+          "path": "Audio/highUp.ogg",
+          "sha256": "cbc1c3c7ccf5d7903818144a4c3f5b2ed2385095792f29d8d7c76360ba4fa559"
+        },
+        {
+          "path": "Audio/laser1.ogg",
+          "sha256": "0bf468769b48a834dc1c6e38e457f2c71159b010225a9aedf84316795e8cc3e5"
+        },
+        {
+          "path": "Audio/laser2.ogg",
+          "sha256": "50470d64f9397855e5d9a334484da9c5232b3e0524c52f088b8a73822bd89f45"
+        },
+        {
+          "path": "Audio/laser3.ogg",
+          "sha256": "caede23d2b65299acdc4e9cab16d06c247d69c7ca1c74caa5e9da21cbdbc1400"
+        },
+        {
+          "path": "Audio/laser4.ogg",
+          "sha256": "13f34561740aadbd3438b971dfe248cf56ea09d333eb7a0278561e09e27c3557"
+        },
+        {
+          "path": "Audio/laser5.ogg",
+          "sha256": "8d7b30b35112bedf4dd6f03796a5f33af85414b02947187e4063819fd80cf3e2"
+        },
+        {
+          "path": "Audio/laser6.ogg",
+          "sha256": "cec018b67fdd9a857e692be0596cec070617346853e5341c3e2df3aae950473d"
+        },
+        {
+          "path": "Audio/laser7.ogg",
+          "sha256": "ec67a33a99dce15b93d74ee4d32c903150dcd04b822853f417eafd526ca041fd"
+        },
+        {
+          "path": "Audio/laser8.ogg",
+          "sha256": "c87572c683af43f2c0050138a0d72ca049d7cae0ad0a6ae27ba3bd7ddf29bcd6"
+        },
+        {
+          "path": "Audio/laser9.ogg",
+          "sha256": "ae77fe3e3f3488e64b83f0526640af512e5ef452d88e79b4b97404803a047e9f"
+        },
+        {
+          "path": "Audio/lowDown.ogg",
+          "sha256": "e0215fcfd8b9d7877f74d5c46b239a13d7db0d25998da97b80404931ef9eef5d"
+        },
+        {
+          "path": "Audio/lowRandom.ogg",
+          "sha256": "ceefeeeb6982838d78ac9059a845ca614b3bd94580a9a9127fd5834d6206f739"
+        },
+        {
+          "path": "Audio/lowThreeTone.ogg",
+          "sha256": "b4b3bc7420e71bfbec49a6ea13b8c12d76a5751cbdf063d8a8ac017c0b1e1d87"
+        },
+        {
+          "path": "Audio/pepSound1.ogg",
+          "sha256": "f2f44effce087e47683f0fea05a71002bd8dca78fb10bf93d9f0b38d49f9590e"
+        },
+        {
+          "path": "Audio/pepSound2.ogg",
+          "sha256": "5a33494e622c15c4587e0a19447cf55c86283faac0e6c1238b550f43a30f16a3"
+        },
+        {
+          "path": "Audio/pepSound3.ogg",
+          "sha256": "5e9f2b4a0b14e65a157d0bbcb28cf816926583afa96e753489c722ec3d810a78"
+        },
+        {
+          "path": "Audio/pepSound4.ogg",
+          "sha256": "8afd1776651eb3155e1b588f26d6c9b5cc183e9c53297685763f51ac63e63673"
+        },
+        {
+          "path": "Audio/pepSound5.ogg",
+          "sha256": "4dc9824b319efd915bac82d8e2767e51d5f6503224d358fda6e2d445f2934bc8"
+        },
+        {
+          "path": "Audio/phaseJump1.ogg",
+          "sha256": "c60069ed7108678dd6a1306404d168a93cc2575cda37b06add9dd6c4d46352a3"
+        },
+        {
+          "path": "Audio/phaseJump2.ogg",
+          "sha256": "5d85717cfca231f7da7887cef5f44b2131bbe3308eb0c1fee0b4f9e61d59b571"
+        },
+        {
+          "path": "Audio/phaseJump3.ogg",
+          "sha256": "69e25a1b7b0781f57af84eb4424973ec406d34bc48eed8b6964787b2d74093a9"
+        },
+        {
+          "path": "Audio/phaseJump4.ogg",
+          "sha256": "90e1c90b9da3d0be66b54f4daa926f0fde79eba867dec7e9d1eef10524756e19"
+        },
+        {
+          "path": "Audio/phaseJump5.ogg",
+          "sha256": "322d62ab7da973880d86c5ad217a2da85916ed95aa6c8d29991de392fd0f7522"
+        },
+        {
+          "path": "Audio/phaserDown1.ogg",
+          "sha256": "d2d046cd0247045f8819905fc9719a7237ccbd590b3128ce58a61a81f50d208b"
+        },
+        {
+          "path": "Audio/phaserDown2.ogg",
+          "sha256": "0eaadbbc5c259cc89a1dfbb0c99b61ca07e08710d035cc9bfc805b68cb0bdc9e"
+        },
+        {
+          "path": "Audio/phaserDown3.ogg",
+          "sha256": "19fd2f5bb8448e022381f1a72c36117d4adcb521ebeb697e888bfaf7945cfa56"
+        },
+        {
+          "path": "Audio/phaserUp1.ogg",
+          "sha256": "4423d459fc15fdd8593a4584d71e272ec2e5f8bdc11b759db623fc613ffd957c"
+        },
+        {
+          "path": "Audio/phaserUp2.ogg",
+          "sha256": "8f158744623b8d7a6d68aec5ba0716b8edd76a7461646071120c81f81dc54792"
+        },
+        {
+          "path": "Audio/phaserUp3.ogg",
+          "sha256": "d6edcbde2c7190e275ef3eba08a8886129153a361cd0e16dc0fb58206deb5e53"
+        },
+        {
+          "path": "Audio/phaserUp4.ogg",
+          "sha256": "a64a69368af9d85dfce8dd38432fd6c9935a7766621782193102c9cb276571fc"
+        },
+        {
+          "path": "Audio/phaserUp5.ogg",
+          "sha256": "704433167121712c456fa7f06af96c975a28f9a022d91feb68196bb073704ea0"
+        },
+        {
+          "path": "Audio/phaserUp6.ogg",
+          "sha256": "39616fbeb3cf28288873502e99acfc590705d54bf7f58ef3f1a23cec72dd22db"
+        },
+        {
+          "path": "Audio/phaserUp7.ogg",
+          "sha256": "47ff0828ef14d4944689e771a50bc4e991a88067bea1ba46a06c6aeb1e03c2a3"
+        },
+        {
+          "path": "Audio/powerUp1.ogg",
+          "sha256": "8c361b624b560c0bc30ea3063b71212bc30caebf425c9df2481c13b25561485c"
+        },
+        {
+          "path": "Audio/powerUp10.ogg",
+          "sha256": "e4d2c7707655361678ccd358048b7956753e4f333e99545b4ae25e07a9b2ef9b"
+        },
+        {
+          "path": "Audio/powerUp11.ogg",
+          "sha256": "d673bfcd3aee32202908708fdadb3ad3033f65162c6dbae4615e181e19eee0d3"
+        },
+        {
+          "path": "Audio/powerUp12.ogg",
+          "sha256": "a9387a2cb0b13b8c794579e61ae1fb7e666e22d46a36aec6c77471635096f2fc"
+        },
+        {
+          "path": "Audio/powerUp2.ogg",
+          "sha256": "83786b43d828a399e14ac20604b63a60ca05385977f5477d00304c2adc696204"
+        },
+        {
+          "path": "Audio/powerUp3.ogg",
+          "sha256": "59e7591f7a068882767bc1fd61edabf479b78787466d3a70bc49dfa0533777d2"
+        },
+        {
+          "path": "Audio/powerUp4.ogg",
+          "sha256": "df6992456056af760815460b66d2ca1c3a07c200cca26325db5820b90104d177"
+        },
+        {
+          "path": "Audio/powerUp5.ogg",
+          "sha256": "528e7245a1b61c6fd94bcb8df1d747e6e9b76dce58a36e44be992cf9e09884f8"
+        },
+        {
+          "path": "Audio/powerUp6.ogg",
+          "sha256": "d1007bc67852cc767fad077a6b7ee016c0eb3d52a2032f1496726d7ab590e22d"
+        },
+        {
+          "path": "Audio/powerUp7.ogg",
+          "sha256": "9048d651b51f528099c384566b0d4c6c597bee8b56c48f3adab7a901feba0fa5"
+        },
+        {
+          "path": "Audio/powerUp8.ogg",
+          "sha256": "2a2adebaacbf07cc89c194e5d088c8e01cad8557800559d6cb5b6106b6739508"
+        },
+        {
+          "path": "Audio/powerUp9.ogg",
+          "sha256": "7dfa3198ab951f09bee096bcd08db6faafcdb57a6bf416c91e1fa9a8321076e5"
+        },
+        {
+          "path": "Audio/spaceTrash1.ogg",
+          "sha256": "8f702781627c95cf9f91724dab3bcdb46bb87cc0ccf2a350748798dba6bc82aa"
+        },
+        {
+          "path": "Audio/spaceTrash2.ogg",
+          "sha256": "1b3a14886d25a471273eec5d55ff3a7e7c7c6df4e82f3659046dafed982a76d4"
+        },
+        {
+          "path": "Audio/spaceTrash3.ogg",
+          "sha256": "03fd29fd857c67b4401e7ffbc321568229844a10051ae455af497b2335f37d6c"
+        },
+        {
+          "path": "Audio/spaceTrash4.ogg",
+          "sha256": "d0c659b2c8108a7bccfeac94dbac6b770f89e4b71c0b4c6c3024941287094f34"
+        },
+        {
+          "path": "Audio/spaceTrash5.ogg",
+          "sha256": "7b74e7c5c9df8023bd6bdc595045ef96bd3e606da5457cfbbb6ff9d4dd32a005"
+        },
+        {
+          "path": "Audio/threeTone1.ogg",
+          "sha256": "bdf21eb12e65507f091d074886fdac820e1ccae51d060caa168e5567acadb84b"
+        },
+        {
+          "path": "Audio/threeTone2.ogg",
+          "sha256": "124198c80ff2e1826230be606aa3dcdd90262272bb545f621a9eb91dccfd5c9d"
+        },
+        {
+          "path": "Audio/tone1.ogg",
+          "sha256": "12c6a1955aad54cb04206b5e9985df4379ebc598a01b65070609e0b0a3b9b026"
+        },
+        {
+          "path": "Audio/twoTone1.ogg",
+          "sha256": "8732f14d6398407a8f1df77b986c2099cfd88f6583e1272cb60497cb2fe8da1d"
+        },
+        {
+          "path": "Audio/twoTone2.ogg",
+          "sha256": "e8e4a2d9faa4344f4722de9ef81103290858bbcd80f1dc686879128cae52e9f0"
+        },
+        {
+          "path": "Audio/zap1.ogg",
+          "sha256": "4e4bf11c671a4be0723022a7177f8e122329fa32a0c59555581f4193ed111585"
+        },
+        {
+          "path": "Audio/zap2.ogg",
+          "sha256": "169cf3876647bae0a28a7eb3fc5b5bd573ab9efae7b56b64a8700ff9bafb3494"
+        },
+        {
+          "path": "Audio/zapThreeToneDown.ogg",
+          "sha256": "272e60bc62a1685f990fa50d163c3cb7f85073c1c3f89e3c3409e7ec938703c5"
+        },
+        {
+          "path": "Audio/zapThreeToneUp.ogg",
+          "sha256": "52da0ff5e219179df4521b38276abde0ed6ba27e0cf030b0d1209b8857406eff"
+        },
+        {
+          "path": "Audio/zapTwoTone.ogg",
+          "sha256": "7d5871b7b01f631bee006772cc4fb6ab6a1eb5c78d5be42edc722b57157c00f5"
+        },
+        {
+          "path": "Audio/zapTwoTone2.ogg",
+          "sha256": "9da93e8dade111d1913cb9dc582925712afed9f69206a80ebf89510756909a06"
+        }
+      ]
+    }
+  ]
+}
