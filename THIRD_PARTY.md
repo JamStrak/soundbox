@@ -15,3 +15,5 @@
 Python 运行依赖及固定版本见 [`requirements.txt`](requirements.txt)，开发测试依赖见 [`requirements-dev.txt`](requirements-dev.txt)；前端依赖及锁定版本见 [`web/package.json`](web/package.json) 和 [`web/package-lock.json`](web/package-lock.json)。这些依赖分别依其上游项目的许可证提供。安装工具下载的第三方依赖不因本仓库的 MIT 许可证而改变许可。
 
 音频处理需要用户自行安装 [FFmpeg](https://ffmpeg.org/)。FFmpeg 的实际许可取决于具体构建和启用的组件；如需再分发 FFmpeg，请检查所选构建的许可并遵守其要求。本仓库源码不包含 FFmpeg 可执行文件。
+
+用于本机验证的便携运行时包含 GPL-3.0-or-later FFmpeg 构建，现有清单尚不能证明所有相关第三方组件的完整对应源码和构建材料均已备齐。对外分发该构建前必须完成对应源码和许可义务核查；不能仅凭上游 FFmpeg 链接认定已完成。本仓库当前不提供该便携运行时或其可执行文件。

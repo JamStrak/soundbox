@@ -13,6 +13,12 @@
 - 可选配置 DeepSeek 或其他兼容文本 API，使用自然语言整理检索词或请求标签建议；还可自行配置 ElevenLabs 生成音效。调用各服务可能产生费用，文本 AI 搜索默认关闭。标签建议基于文字，不会聆听音频。
 - 对音频做客观电平检查、隐藏和音量补偿。检查不能判断主观音质或是否适合具体游戏，仍需要亲自试听。
 
+## Windows 便携包状态
+
+目前尚无公开下载的声匣 Windows 便携包；请勿将 GitHub 自动生成的源码压缩包当作可直接运行的便携包。本仓库提供便携包构建源码以供审查和开发者测试：`tools/build_standalone_portable.py` 使用另行准备的 Windows x64 运行时，不自动下载运行时，也不包含运行时。构建前还需 Windows .NET Framework C# 编译器、Python、Node.js 和构建好的前端。
+
+外部运行时必须含通过工具校验的 `files.json` 清单及 Python、FFmpeg 组件；运行时的准备方式及对应许可材料尚未作为本仓库发布内容完成，因此构建脚本目前不是免配置安装器。FFmpeg 的分发义务见 [第三方来源与许可说明](THIRD_PARTY.md)。
+
 ## Windows 源码运行
 
 准备 [Python 3.11 或更新版本](https://www.python.org/downloads/windows/)、[Node.js](https://nodejs.org/)（建议 20 或更新的 LTS 版本）以及 [FFmpeg](https://ffmpeg.org/download.html)，并确保 `python`、`npm`、`ffmpeg` 和 `ffprobe` 可在终端中找到。FFmpeg 的剪辑与音频检查功能需要同时能调用 `ffmpeg` 和 `ffprobe`。安装 Python 时可勾选添加到 PATH；安装后重新打开终端。
